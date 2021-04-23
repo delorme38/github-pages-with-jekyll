@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenue sur CreationLD"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Tres heureux de vous compter parmis nous
